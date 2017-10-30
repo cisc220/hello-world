@@ -1,5 +1,6 @@
 #include <iostream>
 
+using namespace std;
 int main(){
-    std::cout << "What a world this is!" << std::endl;
+    cout << "What a world this is!" << endl;
 }
